@@ -1,0 +1,6 @@
+C:\Users\WIN10LOGAN\Source\Repos\desarrollo789\GameOver\MyGraffoSolution\MyGraffoSolution\bin\Debug\MyGraffoSolution.exe.config
+C:\Users\WIN10LOGAN\Source\Repos\desarrollo789\GameOver\MyGraffoSolution\MyGraffoSolution\bin\Debug\MyGraffoSolution.exe
+C:\Users\WIN10LOGAN\Source\Repos\desarrollo789\GameOver\MyGraffoSolution\MyGraffoSolution\bin\Debug\MyGraffoSolution.pdb
+C:\Users\WIN10LOGAN\Source\Repos\desarrollo789\GameOver\MyGraffoSolution\MyGraffoSolution\obj\Debug\MyGraffoSolution.csprojResolveAssemblyReference.cache
+C:\Users\WIN10LOGAN\Source\Repos\desarrollo789\GameOver\MyGraffoSolution\MyGraffoSolution\obj\Debug\MyGraffoSolution.exe
+C:\Users\WIN10LOGAN\Source\Repos\desarrollo789\GameOver\MyGraffoSolution\MyGraffoSolution\obj\Debug\MyGraffoSolution.pdb
