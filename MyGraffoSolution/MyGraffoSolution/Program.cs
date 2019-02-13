@@ -20,12 +20,12 @@ namespace MyGraffoSolution
             //Console.ReadKey();
             Cola nodito = new Cola();
             nodito.Insertar("A", "B", "C", "D");
-            //nodito.Insertar("B", "E", "F");
+            nodito.Insertar("B", "E", "F");
             //nodito.Insertar("C","G");
             nodito.Imprimir();
 
             Console.WriteLine("Ingrese nodo objetivo");
-            Console.WriteLine(nodito.verificadorderutas("A", "C"));
+            Console.WriteLine(nodito.verificadorderutas("A", "F"));
             nodito.mostrarelmentosdeunalista();
             Console.ReadKey();
         }
